@@ -1,1 +1,80 @@
-helo
+{
+  "portrait":[
+  "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/1.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/2.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/3.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/4.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/5.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/6.png",
+"https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/7.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/8.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/9.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/10.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/11.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/12.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/13.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/14.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/15.png",
+"https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/16.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/17.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/18.png",
+	        "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/19.png"
+
+
+	  
+	  ],
+  "landscape":[
+    
+ "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/1.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/2.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/3.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/4.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/5.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/6.png",
+"https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/7.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/8.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/9.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/10.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/11.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/12.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/13.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/14.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/15.png",
+"https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/16.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/17.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/18.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/19.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/20.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/21.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/22.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/23.png"
+
+     
+       
+    
+    ]
+}
