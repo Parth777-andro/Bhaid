@@ -35,21 +35,6 @@
 	  ],
   "landscape":[
     
- "https://raw.githubusercontent.com/Parth777-andro/Bhaid/main/Pic/l/1.png",
-    "https://raw.githubusercontent.com/Parth777-andro/Bhaid/main/Pic/l/2.png",
-      "https://raw.githubusercontent.com/Parth777-andro/Bhaid/main/Pic/l/3.png",
-      "https://raw.githubusercontent.com/Parth777-andro/Bhaid/main/Pic/l/4.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Bhaid/main/Pic/l/5.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Bhaid/main/Pic/l/6.png",
-"https://raw.githubusercontent.com/Parth777-andro/Bhaid/main/Pic/l/7.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Bhaid/main/Pic/l/8.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Bhaid/main/Pic/l/9.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Bhaid/main/Pic/l/10.png",
 
     "https://raw.githubusercontent.com/Parth777-andro/Bhaid/main/Pic/l/11.png",
 
